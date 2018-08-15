@@ -4,3 +4,6 @@
 -Ddtyunxi.service.version=0.1.0
 -Ddtyunxi.env.logger.level=info
 -Dfile.encoding=UTF-8
+
+
+hello-word
