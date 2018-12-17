@@ -1,9 +1,0 @@
--Dpandora.location=E:\dev\taobao-tomcat-7.0.59\deploy\taobao-hsf.sar
--Ddtyunxi.service.group=dtyunxi-honour
--Ddtyunxi.registry.group=dtyunxi-honour
--Ddtyunxi.service.version=0.1.0
--Ddtyunxi.env.logger.level=info
--Dfile.encoding=UTF-8
-
-
-hello-word
